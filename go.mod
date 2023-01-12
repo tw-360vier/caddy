@@ -40,7 +40,20 @@ require (
 )
 
 require (
+	github.com/aws/aws-sdk-go-v2 v1.10.0 // indirect
+	github.com/aws/aws-sdk-go-v2/config v1.9.0 // indirect
+	github.com/aws/aws-sdk-go-v2/credentials v1.5.0 // indirect
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.7.0 // indirect
+	github.com/aws/aws-sdk-go-v2/internal/ini v1.2.5 // indirect
+	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.4.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/route53 v1.12.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/sso v1.5.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/sts v1.8.0 // indirect
+	github.com/aws/smithy-go v1.8.1 // indirect
+	github.com/caddy-dns/route53 v1.3.0 // indirect
 	github.com/golang/mock v1.6.0 // indirect
+	github.com/jmespath/go-jmespath v0.4.0 // indirect
+	github.com/libdns/route53 v1.3.0 // indirect
 	golang.org/x/exp v0.0.0-20220722155223-a9213eeb770e // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
@@ -124,7 +137,7 @@ require (
 	go.step.sm/crypto v0.18.0 // indirect
 	go.step.sm/linkedca v0.18.0 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
-	go.uber.org/multierr v1.6.0 // indirect
+	go.uber.org/multierr v1.7.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
 	golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10
 	golang.org/x/text v0.3.8-0.20211004125949-5bd84dd9b33b // indirect
